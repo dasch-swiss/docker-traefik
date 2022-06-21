@@ -1,3 +1,3 @@
-FROM traefik:v1.7.33-alpine
+FROM traefik:v2.8
 
 LABEL maintainer="400790+subotic@users.noreply.github.com"
